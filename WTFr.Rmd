@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-TESTING FROM R STUDIO 
+head(cars)
 ```
 
 
